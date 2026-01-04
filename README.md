@@ -7,7 +7,7 @@
 <img src="./IMG_PREVIEW/step1-1.png"></img><br>
 
 3. 點擊 "點這個開始轉換.exe" 開始轉換圖片
-<img src="./IMG_PREVIEW/step2.png"></img><br>
+> <img src="./IMG_PREVIEW/step2.png"></img><br>
 
 4. 轉換後<br>
 > 轉換後的原圖片在這裡：<br>
